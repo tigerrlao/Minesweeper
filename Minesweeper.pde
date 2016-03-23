@@ -8,7 +8,7 @@ private ArrayList <MSButton> bombs = new ArrayList <MSButton>(); //ArrayList of 
 void setup ()
 {
     size(400, 400);
-    textAlign(CENTER,CENTER);
+    // textAlign(CENTER,CENTER);
     
     // make the manager
     Interactive.make( this );
